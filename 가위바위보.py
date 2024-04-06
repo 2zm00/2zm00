@@ -10,3 +10,6 @@ elif (computer_pick == '가위' and player_pick == '바위') or (computer_pick =
     print('YOU WIN')
 else:
     print('YOU LOSE')
+    
+    
+    #gang
