@@ -9,6 +9,8 @@ else:
     for i in range (1,10):
         print(user_choice, 'x', i, '=', user_choice*i)
 
+#구구단 1~9단은 9번, 1~n번은 n단까지
+
 
 
 
