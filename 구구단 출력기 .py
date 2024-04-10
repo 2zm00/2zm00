@@ -10,6 +10,7 @@ else:
         print(user_choice, 'x', i, '=', user_choice*i)
 
 #구구단 1~9단은 9번, 1~n번은 n단까지
+#활용해서 html에 연결시키기
 
 
 
