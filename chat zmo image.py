@@ -20,3 +20,6 @@ image.save("zmo_profile_image.png")
 
 # 이미지 표시 (옵션)
 image.show()
+
+
+#무슨 컨셉의 이미지로 가볼까?
