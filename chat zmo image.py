@@ -22,4 +22,4 @@ image.save("zmo_profile_image.png")
 image.show()
 
 
-#무슨 컨셉의 이미지로 가볼까?
+#무슨 컨셉의 이미지로 가볼까? 곧 이다.
