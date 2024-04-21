@@ -19,7 +19,7 @@ image.paste(character_image, (100, 100))  # 캐릭터 이미지를 중앙에 추
 image.save("zmo_profile_image.png")
 
 # 이미지 표시 (옵션)
-image.show()
+image.show("zmo_profile_image.png")
 
 
 #무슨 컨셉의 이미지로 가볼까? 곧 이다.
