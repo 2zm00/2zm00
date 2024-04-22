@@ -1,7 +1,7 @@
 ### <div align="center">I'm 2zm00 🖐️</div>  
   
 
-- 🔭 I’m currently working on Occupation Therapist
+- 🔭 I’m working on Occupation Therapist
   
   
 
