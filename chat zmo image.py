@@ -23,3 +23,4 @@ image.show("zmo_profile_image.png")
 
 
 #무슨 컨셉의 이미지로 가볼까? 곧 이다.
+# 형체가 없는거로 해야될까?
