@@ -6,6 +6,7 @@
   
 
 - 🌱 I’m currently learning Python  
+- please give me some advice for learning
   
 
 <br/>  
