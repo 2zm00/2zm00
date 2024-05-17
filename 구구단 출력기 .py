@@ -1,3 +1,5 @@
+
+
 print("알고싶은 구구단은 무엇인가요?")
 
 user_choice = int(input())
