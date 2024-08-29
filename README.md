@@ -1,13 +1,7 @@
 ### <div align="center">I'm 2zm00 🖐️</div>  
   
 
-- 🔭 I’m working on Occupation Therapist
-  
-  
 
-- 🌱 I’m currently learning Python  
-- please give me some advice for learning
-  
 
 <br/>  
 
