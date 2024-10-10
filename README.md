@@ -2,7 +2,17 @@
   
 I'm a passionate developer from South Korea, always eager to learn and create. My journey in the world of coding is an exciting adventure, and I'm constantly exploring new technologies and methodologies.
 
-"Code is poetry, and I'm here to write my verse in the grand epic of technology."
+"Growth blooms in the garden of dreams,
+Each day, I nurture my aspirations to new heights.
+
+My dreams unfold in lines of code,
+A tapestry of thought, woven with digital threads.
+
+In this grand symphony of technology,
+My code is my verse, my poetry in motion.
+Crafting beauty in the language of our time.
+
+Creating my world, my ecosystem, my dreams."
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to discuss tech, collaborate, or just chat!
 
